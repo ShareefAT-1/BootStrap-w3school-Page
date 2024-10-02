@@ -1,0 +1,63 @@
+body{
+    background-image:url("./image/background_in_space.webp");
+    height: 100vh;
+
+}
+.image{
+    width: 50px;
+}
+/* .icon{
+    background-image: url("./image/");
+} */
+ .nav-item:hover{
+    background-color: green;
+ }
+
+ .nav-item{
+    display: flex;
+    align-items: center;
+    height: 56px;
+
+ }
+
+ .navbar
+{
+    display: flex;
+    align-items: center;
+    height: 56px; 
+ }
+ .d1{
+    background-color: white;
+    height: 20px;
+    width: 20px;
+ }
+ .d2{
+    background-color: black;
+    height: 20px;
+    width: 20px;
+ }
+ .box{
+    
+    height: 18px;
+    width: 18px;
+ }
+ .mainbox{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        color: white;
+        gap: 2px;
+ }
+.iconbtn{
+    height: 40px;
+    width: 40px;
+    color: white;
+    background-color: green;
+}
+.atag{
+    background-color: transparent;
+    color: white;
+    font-size: 23px;   
+}
+
